@@ -1,0 +1,15 @@
+*.exe
+*.dll
+*.fsh
+*.vsh
+*.ogg
+*.png
+*.svg
+*.log
+Logs
+Logs/
+Logs/*
+# Add Saves via git add SAVENAME.vcdbs -f
+*.vcdbs
+VintagestoryData/Logs/client-*.txt
+VintagestoryData/Logs/server-*.txt
