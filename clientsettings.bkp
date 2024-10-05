@@ -169,7 +169,7 @@
     "startupErrorDialog": false,
     "hasGameServer": false,
     "showMinimapHud": true,
-    "chatdialogvisible": false
+    "chatdialogvisible": true
   },
   "floatSettings": {
     "guiScale": 0.875,
