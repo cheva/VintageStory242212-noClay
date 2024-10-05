@@ -94,7 +94,7 @@
     "entitySoundLevel": 100,
     "ambientSoundLevel": 100,
     "weatherSoundLevel": 100,
-    "musicLevel": 0,
+    "musicLevel": 20,
     "screenWidth": 1280,
     "screenHeight": 850,
     "gameWindowMode": 1,
@@ -169,7 +169,7 @@
     "startupErrorDialog": false,
     "hasGameServer": false,
     "showMinimapHud": true,
-    "chatdialogvisible": false
+    "chatdialogvisible": true
   },
   "floatSettings": {
     "guiScale": 0.875,
