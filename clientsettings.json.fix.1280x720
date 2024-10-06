@@ -100,7 +100,7 @@
     "gameWindowMode": 1,
     "rightDialogMargin": 0,
     "leftDialogMargin": 0,
-    "maxQuadParticles":4000,
+    "maxQuadParticles": 4000,
     "maxCubeParticles": 2000,
     "maxAsyncQuadParticles": 40000,
     "maxAsyncCubeParticles": 40000,
@@ -172,7 +172,7 @@
     "chatdialogvisible": true
   },
   "floatSettings": {
-    "guiScale": 0.875,
+    "guiScale": 0.75,
     "fontSize": 1.0,
     "lodBias": 0.33,
     "lodBiasFar": 0.67,
